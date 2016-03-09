@@ -4,5 +4,7 @@
 // then click the URL that is emitted to the Output tab of the console
 
 echo 'Hello world from Cloud9!';
+echo 'Hello to you Cloud9'
+echo 'lets do some typing'
 
 ?>
